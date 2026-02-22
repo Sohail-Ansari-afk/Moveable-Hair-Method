@@ -15,9 +15,12 @@ A **Streamlit web app** that solves the classic **Moveable Hair Method** problem
 Imagine you're a surveyor standing at a point **O** with a theodolite (a precision angle-measuring instrument). You're looking at a staff (a tall measuring rod) held vertically at a distant point **A**.
 
 Your job: **Find the exact elevation (RL) of point A** without walking over there.
+<img width="1201" height="673" alt="image" src="https://github.com/user-attachments/assets/681142f7-916e-4660-9136-8469ca77f06e" />
+
 
 ### The trick 🎩
 Instead of reading one crosshair, you use **two moveable hairs** in the eyepiece to sight **two different points** on the staff — one low, one high. The difference in their heights and the angles you measure mathematically give you the distance and elevation!
+<img width="1196" height="676" alt="image" src="https://github.com/user-attachments/assets/5a172803-7936-443f-b89e-0d947ddc5ad8" />
 
 ---
 
@@ -40,6 +43,7 @@ Think of it like this:
 | 4️⃣ | **RL of Staff Station A** — final answer | `RL of A = RL of Instrument Axis − V − h` |
 
 > `h` = lower staff reading (the reading at the bottom target)
+<img width="1201" height="672" alt="image" src="https://github.com/user-attachments/assets/054b19d8-f589-4a48-bfc3-4b0bebc7bc37" />
 
 ---
 
