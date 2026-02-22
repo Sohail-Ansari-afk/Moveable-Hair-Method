@@ -3,6 +3,12 @@
 A **Streamlit web app** that solves the classic **Moveable Hair Method** problem in transit theodolite surveying. Just plug in your field readings and instantly get distances, elevations, and a live diagram — no manual calculation needed!
 
 ---
+<img width="1919" height="809" alt="image" src="https://github.com/user-attachments/assets/b9654b31-7eea-46a0-bd62-3d4322ca66f4" />
+<img width="659" height="575" alt="image" src="https://github.com/user-attachments/assets/7d4ccca9-f9a9-4250-bdc2-8df9bde20d4c" />
+<img width="1833" height="665" alt="image" src="https://github.com/user-attachments/assets/0837b999-e59a-4be1-b2de-8227b9206553" />
+<img width="311" height="844" alt="image" src="https://github.com/user-attachments/assets/e61287ff-2f22-4fa0-bdf7-b1c94e64bc31" />
+
+
 
 ## 🤔 What Problem Does This Solve?
 
